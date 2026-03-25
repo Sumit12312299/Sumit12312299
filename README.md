@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Open+Source+Enthusiast;Always+Learning+New+Things🔥">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=800&color=0A66C2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Problem+Solver+%7C+DSA+Enthusiast;Building+Real+World+Projects🚀">
 </p>
 
 ---
@@ -13,54 +9,49 @@
 ## 🧑‍💻 About Me
 
 * 🎓 B.Tech CSE @ LPU (3rd Year)
-* 💡 Passionate about Web Development & AI
-* 🔥 Love building real-world projects
-* 🎯 Goal: Crack top tech placements
+* 💡 Focused on Full Stack Development & DSA
+* ⚡ Passionate about solving real-world problems
+* 🎯 Preparing for top tech placements
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-00FF00?style=for-the-badge\&logo=java\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-00FF00?style=for-the-badge\&logo=python\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-00FF00?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### 🌐 Frontend
-
-![HTML](https://img.shields.io/badge/HTML-00FF00?style=for-the-badge\&logo=html5\&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-00FF00?style=for-the-badge\&logo=css3\&logoColor=black)
-![React](https://img.shields.io/badge/React-00FF00?style=for-the-badge\&logo=react\&logoColor=black)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-00FF00?style=for-the-badge\&logo=node.js\&logoColor=black)
-![Express](https://img.shields.io/badge/Express-00FF00?style=for-the-badge\&logo=express\&logoColor=black)
-
-### 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-00FF00?style=for-the-badge\&logo=mongodb\&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00FF00?style=for-the-badge\&logo=mysql\&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-* 🛒 ShopEase (E-Commerce Website)
-* 🔐 Password Generator
-* 📁 Secure File Management System
+🔹 **ShopEase (E-Commerce Platform)**
+
+* Full-stack app with authentication & cart
+* Optimized search & performance
+
+🔹 **Secure File Management System**
+
+* Secure storage & file handling
+
+🔹 **Password Generator**
+
+* Strong password generation with customization
 
 ---
 
 ## 🧠 Coding Profiles
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" />
+  <a href="https://leetcode.com/u/uXvkdcwIso/">
+    <img src="https://leetcard.jacoblin.cool/uXvkdcwIso?theme=light&font=Inter&ext=contest" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME&theme=dark" />
+  <a href="https://www.hackerrank.com/profile/sumitkr4364">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -68,30 +59,28 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit12312299&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit12312299&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit12312299&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit12312299&theme=default&hide_border=true" />
 </p>
-
----
-
-## 👀 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sumit12312299&label=Profile%20views&color=00ff00&style=flat" />
-</p>
-
----
-
-## 🌐 Portfolio
-
-🔗 https://your-portfolio-link.com
 
 ---
 
 ## 🌐 Connect with Me
 
-* 📧 Email: [sumitkr4364@gmail.com](mailto:sumitkr4364@gmail.com)
+<p align="center">
+  <a href="mailto:sumitkr4364@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/uXvkdcwIso/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/sumitkr4364">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<p align="center">🔥 Code. Learn. Repeat. 🔥</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2563EB&height=120&section=footer"/>
+</p>
