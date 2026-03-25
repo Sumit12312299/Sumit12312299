@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JS;Open+Source+Enthusiast;Always+Learning+New+Things🔥">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Open+Source+Enthusiast;Always+Learning+New+Things🔥">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -49,6 +53,18 @@
 
 ---
 
+## 🧠 Coding Profiles
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME&theme=dark" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -66,10 +82,16 @@
 
 ---
 
+## 🌐 Portfolio
+
+🔗 https://your-portfolio-link.com
+
+---
+
 ## 🌐 Connect with Me
 
 * 📧 Email: [sumitkr4364@gmail.com](mailto:sumitkr4364@gmail.com)
 
 ---
 
-<p align="center">🔥 "Code. Learn. Repeat." 🔥</p>
+<p align="center">🔥 Code. Learn. Repeat. 🔥</p>
