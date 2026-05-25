@@ -96,19 +96,6 @@
 
 ---
 
-## 📊 GitHub Metrics & Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit12312299&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit12312299&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit12312299&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af3&height=120&section=footer" alt="Footer Banner" />
 </p>
