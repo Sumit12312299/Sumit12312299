@@ -18,6 +18,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sumit12312299&color=7aa2f7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🪐 About Me
@@ -80,6 +84,16 @@
 
 ---
 
+## 🏆 GitHub Trophies & Accomplishments
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sumit12312299&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 ## 🧠 Coding Achievements & Profiles
 
 <p align="center">
@@ -92,6 +106,12 @@
   <a href="https://www.hackerrank.com/profile/sumitkr4364" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=twinkling" alt="Dev Quote" />
 </p>
 
 ---
