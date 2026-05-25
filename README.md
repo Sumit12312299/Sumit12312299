@@ -25,7 +25,7 @@
 > **B.Tech Computer Science Engineering student at Lovely Professional University (3rd Year)**, specializing in designing, building, and deploying highly efficient, scalable full-stack web applications. An active competitive programmer who loves breaking down complex problems and translating them into robust, clean code.
 
 - 🏫 **Academics:** Pursuing B.Tech in CSE @ LPU, focusing on Core Computer Science principles, Data Structures, and Algorithms.
-- 💻 **Core Focus:** Full Stack Web Development (MERN Stack) and Systems Architecture.
+- 💻 **Core Focus:** Full Stack Web Development (MERN & Django) and Systems Architecture.
 - 🧠 **Problem Solving:** Passionate about Data Structures & Algorithms, regularly solving complex algorithmic challenges.
 - 🚀 **Goal:** Eagerly preparing for upcoming high-impact software engineering roles where I can contribute to meaningful codebases.
 
@@ -35,39 +35,48 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,react,django,nodejs,express,mongodb,mysql,sqlite,html,css,git,github,vscode&theme=dark" alt="My Skills" />
   </a>
 </p>
 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | `Java` `Python` `JavaScript` `HTML5` `CSS3` |
-| **Frontend** | `React.js` `Redux` `TailwindCSS` `Bootstrap` |
-| **Backend & DB** | `Node.js` `Express.js` `MongoDB` `MySQL` `RESTful APIs` |
+| **Frontend** | `React.js` `Redux` `TailwindCSS` `Bootstrap` `Framer Motion` |
+| **Backend & DB** | `Node.js` `Express.js` `Django` `MongoDB` `MySQL` `SQLite` |
 | **DevOps & Tools** | `Git` `GitHub` `VS Code` `Postman` |
 
 ---
 
-## 🚀 Highlighted Creations
+## 🚀 Featured Masterpieces & Creations
 
-#### 🛒 **ShopEase** — *E-Commerce Platform*
-> A robust, modern full-stack e-commerce platform designed to deliver seamless shopping experiences from browse to checkout.
-* **Core Features:** Dynamic search and filtering, fully responsive cart, user authentication, and secure checkout flows.
-* **Technologies Used:** `React.js` `Node.js` `Express.js` `MongoDB` `Redux`
-
-<br/>
-
-#### 🔒 **Secure File Management System**
-> A high-security web storage application for sensitive user documents and files, prioritizing encryption and access control.
-* **Core Features:** AES encryption for files, granular permission systems, activity logging, and safe storage options.
-* **Technologies Used:** `Java` `Cryptography APIs` `MySQL` `Express.js`
+### 🧠 **AI Resume Analyzer** — *Resume Analysis & Optimizer Website* 
+> An interactive, AI-driven application designed to parse, analyze, and optimize developer resumes client-side, ensuring 100% data privacy while providing real-time alignment scores.
+* **Core Impact:**
+  - 📈 **ATS Compatibility:** Boosted ATS compatibility scores by **40%** through custom heuristic gap analysis against job descriptions.
+  - ⚡ **Zero-Dependency PDF Parsing:** Integrated `PDF.js` for lightweight client-side text extraction, maintaining absolute user privacy.
+  - 📄 **Dynamic Compilation:** Enabled instant A4 resume generation & export using `html2pdf.js` and `React Markdown`, boosting preparation speed by **50%**.
+* **Technical Stack:** `React 19` `Vite` `Framer Motion` `PDF.js` `html2pdf.js` `React Markdown` `JavaScript (ES6)` `CSS3`
 
 <br/>
 
-#### 🔑 **Password Generator**
-> A sleek, minimal web utility for generating cryptographically secure, randomized passwords based on custom constraints.
-* **Core Features:** Adjustable password length, toggleable character sets (letters, numbers, symbols), and instant clipboard sharing.
-* **Technologies Used:** `JavaScript` `HTML5` `CSS3` `Vercel`
+### 🚗 **ParkKaro** — *AI-Powered Smart Parking Management System*
+> A highly responsive web system offering real-time interactive maps, automated slot booking, and smart agent assistance to streamline parking operations.
+* **Core Impact:**
+  - 🗺️ **Real-Time Map & Efficiency:** Integrated interactive slot maps with color-coded availability, reducing search times by **45%** and managing 50+ slots.
+  - 🤖 **ParkBot Integration:** Implemented an AI assistant using the **Google Gemini API** for automated bookings, Q&A, and quick payment validations.
+  - 🎫 **QR Verification & Operations:** Created QR-based E-ticket check-ins, easy cancellations, extensions, and automatic refunds, raising slot utilization by **30%**.
+* **Technical Stack:** `Python` `Django` `Google Gemini API` `SQLite` `HTML5` `CSS3` `JavaScript (ES6)`
+
+<br/>
+
+### 💼 **Professional Placement Portfolio** — *Personal Portfolio Website*
+> A sleek, highly responsive, and premium portfolio website designed to showcase projects, skills, certificates, and achievements for top-tier placement opportunities.
+* **Core Impact:**
+  - 🎨 **Visual Excellence:** Crafted a stunning, modern visual interface featuring fluid transitions, micro-interactions, and dark mode aesthetics.
+  - 📦 **Section Structure:** Rich layout featuring dedicated spaces for dynamic Projects, technical Skills, Certificates, Resume downloads, and Contact forms.
+  - 🌐 **Deployment:** Fully optimized and hosted on **GitHub Pages** for ultra-fast load times and global accessibility.
+* **Technical Stack:** `HTML5` `CSS3` `JavaScript (ES6)` `GitHub Pages` `Figma`
 
 ---
 
