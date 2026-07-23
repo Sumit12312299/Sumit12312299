@@ -155,21 +155,7 @@ Goal      : Crafting high-performance, user-centric software solutions
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:bb9af3&height=3" alt="Divider" />
-</p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sumit12312299&theme=tokyonight&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:bb9af3&height=3" alt="Divider" />
-</p>
 
 ## 💬 Dev Inspiration
 
