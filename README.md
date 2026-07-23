@@ -75,7 +75,7 @@ Goal      : Crafting high-performance, user-centric software solutions
       <ul>
         <li>📈 <strong>ATS Optimization:</strong> Boosted match compatibility by <strong>40%</strong> through heuristic gap analysis against job criteria.</li>
         <li>⚡ <strong>Privacy-First Parsing:</strong> Integrated <code>PDF.js</code> for lightning-fast client-side extraction without server roundtrips.</li>
-        <li>📄 **Instant Export:** Built seamless A4 PDF compiling using <code>html2pdf.js</code> and <code>React Markdown</code>, accelerating prep efficiency by <strong>50%</strong>.</li>
+        <li>📄 <strong>Instant Export:</strong> Built seamless A4 PDF compiling using <code>html2pdf.js</code> and <code>React Markdown</code>, accelerating prep efficiency by <strong>50%</strong>.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/React_19-1a1b26?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -151,7 +151,11 @@ Goal      : Crafting high-performance, user-centric software solutions
 ## 🐍 Contribution Graph & Activity Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sumit12312299/Sumit12312299/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumit12312299/Sumit12312299/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumit12312299/Sumit12312299/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Sumit12312299/Sumit12312299/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </p>
 
 <p align="center">
@@ -162,7 +166,7 @@ Goal      : Crafting high-performance, user-centric software solutions
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sumit12312299&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sumit12312299&theme=tokyonight&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -173,8 +177,14 @@ Goal      : Crafting high-performance, user-centric software solutions
 ## 💬 Dev Inspiration
 
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=twinkling" alt="Dev Quote" />
+  <a href="https://quotes-github-readme.vercel.app">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  </a>
 </p>
+
+<blockquote align="center">
+  <p><em>"Simplicity is prerequisite for reliability."</em> — <strong>Edske Dijkstra</strong></p>
+</blockquote>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af3&height=120&section=footer" alt="Footer Banner" />
