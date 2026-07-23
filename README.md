@@ -25,20 +25,38 @@
 
 ## 🪐 About Me
 
-```yaml
-Degree    : B.Tech Computer Science & Engineering (3rd Year)
-College   : Lovely Professional University
-Focus     : Full Stack Web Engineering, Systems Design & AI Integration
-Stack     : React.js, Node.js, Express.js, Django, Java, Python, SQL/NoSQL
-Goal      : Crafting high-performance, user-centric software solutions
-```
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>⚡ Terminal Manifest</h3>
+      <pre>
+<span style="color:#7aa2f7;">const</span> <span style="color:#bb9af3;">developer</span> = {
+  <span style="color:#7aa2f7;">name</span>: <span style="color:#9ece6a;">"Sumit Kumar"</span>,
+  <span style="color:#7aa2f7;">role</span>: <span style="color:#9ece6a;">"Full Stack Engineer & Problem Solver"</span>,
+  <span style="color:#7aa2f7;">degree</span>: <span style="color:#9ece6a;">"B.Tech CSE (3rd Year)"</span>,
+  <span style="color:#7aa2f7;">institution</span>: <span style="color:#9ece6a;">"Lovely Professional University"</span>,
+  <span style="color:#7aa2f7;">location</span>: <span style="color:#9ece6a;">"Punjab, India"</span>,
+  <span style="color:#7aa2f7;">primaryStack</span>: [<span style="color:#9ece6a;">"Java"</span>, <span style="color:#9ece6a;">"Python"</span>, <span style="color:#9ece6a;">"JavaScript"</span>, <span style="color:#9ece6a;">"React"</span>, <span style="color:#9ece6a;">"Django"</span>, <span style="color:#9ece6a;">"Node"</span>],
+  <span style="color:#7aa2f7;">passions</span>: [<span style="color:#9ece6a;">"Algorithms"</span>, <span style="color:#9ece6a;">"System Architecture"</span>, <span style="color:#9ece6a;">"AI Integration"</span>],
+  <span style="color:#7aa2f7;">status</span>: <span style="color:#9ece6a;">"Eagerly exploring high-impact SDE opportunities 🚀"</span>
+};</pre>
+    </td>
+    <td width="45%" valign="top">
+      <h3>🎯 Strategic Highlights</h3>
+      <ul>
+        <li>🎓 <strong>Education:</strong> B.Tech CSE @ LPU (Strong foundation in Core CS & Systems)</li>
+        <li>💻 <strong>Full Stack Proficiency:</strong> Modern MERN Ecosystem & Django Enterprise Architectures</li>
+        <li>🧠 <strong>Competitive Coding:</strong> Regular problem solver on LeetCode & HackerRank</li>
+        <li>🤖 <strong>AI & Innovation:</strong> Seamless API integration (Google Gemini, PDF parsing, client-side engines)</li>
+        <li>⚡ <strong>Engineering Philosophy:</strong> Clean code, optimal complexity, user-centric UX</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-> 🎓 **B.Tech Computer Science Engineering student at Lovely Professional University**, passionate about architecting scalable full-stack web applications and crafting intuitive digital experiences.
-> 
-> - 🏫 **Academic Excellence:** Core focus on Data Structures & Algorithms, Systems Architecture, and Database Optimization.
-> - 💻 **Engineering Stack:** Proficient across modern MERN ecosystem, Django backends, and responsive React UIs.
-> - 🧠 **Competitive Coding:** Active algorithmic problem solver on LeetCode and HackerRank.
-> - 🚀 **Career Objective:** Seeking high-impact Software Engineering roles to solve challenging technical problems.
+<br/>
+
+> 🚀 **Driven by curiosity and technical precision.** I build scalable, high-performance web systems and craft intuitive user experiences. Whether it's optimizing client-side ATS analysis engines, designing AI-assisted parking systems, or solving algorithmic puzzles, I focus on delivering clean, reliable software solutions.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:bb9af3&height=3" alt="Divider" />
