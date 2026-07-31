@@ -83,7 +83,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:bb9af3&height=3" alt="Divider" />
 </p>
 
-## 🛡️ Verified Certifications
+## 🛡️ Verified Badges
 
 <p align="center">
   <a href="https://www.credly.com/badges/2d58f22e-62a1-423f-bf95-251e0aea0088/public_url" target="_blank">
