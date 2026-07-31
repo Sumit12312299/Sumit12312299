@@ -87,7 +87,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/2d58f22e-62a1-423f-bf95-251e0aea0088/public_url" target="_blank">
-    <img src="https://images.credly.com/images/08974f21-b24f-4a0e-be9d-4ae904907259/linkedin_thumb_blob" width="160" alt="MongoDB Basics for Students" />
+    <img src="https://images.credly.com/images/08974f21-b24f-4a0e-be9d-4ae904907259/linkedin_thumb_blob" width="280" alt="MongoDB Basics for Students" />
   </a>
 </p>
 
