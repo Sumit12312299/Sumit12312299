@@ -87,15 +87,19 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/2d58f22e-62a1-423f-bf95-251e0aea0088/public_url" target="_blank">
-    <img src="https://images.credly.com/images/08974f21-b24f-4a0e-be9d-4ae904907259/linkedin_thumb_blob" width="240" alt="MongoDB Basics for Students" />
+    <img src="https://images.credly.com/images/08974f21-b24f-4a0e-be9d-4ae904907259/linkedin_thumb_blob" width="220" alt="MongoDB Basics for Students" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/899b3dbe-bf8a-41bb-b869-e1fe50bec080/public_url" target="_blank">
-    <img src="https://images.credly.com/images/c8a24500-d484-4e48-825a-de40b4c5c948/linkedin_thumb_blob" width="240" alt="AI and Innovation: How MongoDB Enables a Resilient AI Strategy" />
+    <img src="https://images.credly.com/images/c8a24500-d484-4e48-825a-de40b4c5c948/linkedin_thumb_blob" width="220" alt="AI and Innovation: How MongoDB Enables a Resilient AI Strategy" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/4822be39-1682-4db2-a43b-276a89fb50ed/public_url" target="_blank">
-    <img src="https://images.credly.com/images/3601c267-f2cc-48da-81af-89331f02ae2a/linkedin_thumb_blob" width="240" alt="Vector Search Performance" />
+    <img src="https://images.credly.com/images/3601c267-f2cc-48da-81af-89331f02ae2a/linkedin_thumb_blob" width="220" alt="Vector Search Performance" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/8ec0a353-8dc0-438d-b9fd-7d443952cfd6/public_url" target="_blank">
+    <img src="https://images.credly.com/images/2aff887d-ee1e-479f-b26f-dcb20d647bd6/linkedin_thumb_blob" width="220" alt="Building RAG Apps Using MongoDB" />
   </a>
 </p>
 
