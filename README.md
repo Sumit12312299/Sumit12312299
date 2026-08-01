@@ -97,9 +97,13 @@
   <a href="https://www.credly.com/badges/4822be39-1682-4db2-a43b-276a89fb50ed/public_url" target="_blank">
     <img src="https://images.credly.com/images/3601c267-f2cc-48da-81af-89331f02ae2a/linkedin_thumb_blob" width="220" alt="Vector Search Performance" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <br/><br/>
   <a href="https://www.credly.com/badges/8ec0a353-8dc0-438d-b9fd-7d443952cfd6/public_url" target="_blank">
     <img src="https://images.credly.com/images/2aff887d-ee1e-479f-b26f-dcb20d647bd6/linkedin_thumb_blob" width="220" alt="Building RAG Apps Using MongoDB" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/7e5f30d7-23fd-42f2-98ed-d899522ecad9/public_url" target="_blank">
+    <img src="https://images.credly.com/images/252ed95c-8043-44f5-ae1f-6f5a6cf313c4/linkedin_thumb_blob" width="220" alt="Building AI Agents with MongoDB" />
   </a>
 </p>
 
